@@ -4,13 +4,13 @@
   "data": "data.json",
   "logo": {
     "link": "",
-    "file": "images/ocadu1.png",
+    "file": "images/universita-per-stranieri.png",
     "text": ""
   },
   "text": {
     "more": "soon...!",
     "intro": "CPC technology schemes have multiple patents registered among them. The Visualization presents an interaction network among CPC technology schemes through registered patents among them. Each node represents the CPC technology scheme, and each edge represents the interaction among connected patented technologies.",
-	"title": "Visual Network Exploration and Sustainability Analysis of CPC Patented Technologies"
+	"title": "Visual Network Exploration and Sustainability Analysis of CPC Green Patented Technologies"
 	
   },
   "legend": {
