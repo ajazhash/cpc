@@ -204,10 +204,10 @@ function setupGUI(config) {
 function configSigmaElements(config) {
 	$GP=config.GP;
     
-    // Node hover behaviour
+    // Node hover behaviour #ccc
     if (config.features.hoverBehavior == "dim") {
 
-		var greyColor = '#ccc';
+		var greyColor = '#1f1f1f';
 		sigInst.bind('overnodes',function(event){
 		var nodes = event.content;
 		var neighbors = {};
