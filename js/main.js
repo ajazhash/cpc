@@ -206,8 +206,8 @@ function configSigmaElements(config) {
     
     // Node hover behaviour
     if (config.features.hoverBehavior == "dim") {
-		
-		var greyColor = '#1f1f1f';
+
+		var greyColor = '#ccc';
 		sigInst.bind('overnodes',function(event){
 		var nodes = event.content;
 		var neighbors = {};
